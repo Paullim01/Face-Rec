@@ -2,7 +2,7 @@
   "name": "face-rec",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://paullim01.github.io/Face-Rec/",
+  "homepage": "https://paullim01.github.io/Face-Rec",
   "dependencies": {
     "clarifai": "^2.8.0",
     "gh-pages": "^2.0.1",
